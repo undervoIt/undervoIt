@@ -14,7 +14,7 @@ Right now, I'm focused on building my skills in **security engineering, software
 
 **Languages**
 
-`Python` `C++` `C#` `Java` `JavaScript` `HTML` `CSS`
+`Python` `C++` `C#` `Java` `JavaScript` `SQL` `CSS`
 
 **Security & Systems**
 
@@ -23,24 +23,5 @@ Right now, I'm focused on building my skills in **security engineering, software
 **Tools & Platforms**
 
 `Git` `GitHub` `AWS` `Splunk` `Microsoft Security` `Google Cloud`
-
----
-
-## 🔐 Cybersecurity
-
-I'm especially interested in **Security Engineering** and the intersection between software and security.
-
-Things I like working with:
-
-* Vulnerability research
-* Network security
-* Application security
-* Cloud security
-* Security automation
-* Detection & monitoring
-* Linux and systems
-* Secure software development
-
-I'm also working toward industry certifications and building practical experience alongside my studies.
 
 ---
